@@ -15,6 +15,8 @@
         <link rel="stylesheet" href="Resources/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="Resources/css/form-elements.css">
         <link rel="stylesheet" href="Resources/css/style.css">
+     <link rel="stylesheet" href="Resources/css/animate.css">
+    
 
 
 </head>
@@ -22,6 +24,7 @@
     
     <form id="form1" runat="server">
 
+        
         <!-- Top content -->
         <div class="top-content">
         	
