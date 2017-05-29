@@ -6,7 +6,7 @@ using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Tienda
+namespace TravelWeb
 {
     public partial class Login2 : System.Web.UI.Page
     {
@@ -22,7 +22,7 @@ namespace Tienda
 
         protected void Login1_LoggedIn(object sender, EventArgs e)
         {
-            Response.Redirect("~/Shop/Products.aspx");
+            Response.Redirect("~/Menu.aspx");
         }
     }
 }
